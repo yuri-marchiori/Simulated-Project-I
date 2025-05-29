@@ -1,4 +1,4 @@
-# Project I - English Version
+# Project I
 
 ### Project: Creating a website for a local coffee shop
 
@@ -164,8 +164,6 @@ She tests the pages and says:
 - WhatsApp button  
 - Login area with menu editing  
 
-**Final review:**
+> 💡 **This project was created as a learning experience** to solidify Scrum practices and prepare for real-world Agile roles.  
+> It showcases not only technical deliverables but also my ability to lead and facilitate collaborative, iterative work using Agile methodologies.
 
-- What was the goal of Sprint 2?  
-- What improvements emerged from the retrospective?  
-- How did the Scrum Master help the team?  
