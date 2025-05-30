@@ -1,3 +1,6 @@
+![Banner Scrum](./banner-scrum.png)
+
+
 # Project I
 
 ### Project: Creating a website for a local coffee shop
