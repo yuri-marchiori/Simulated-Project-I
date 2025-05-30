@@ -1,4 +1,4 @@
-![Banner Scrum](./banner-scrum.png)
+![Banner Scrum](./PSS.png)
 
 
 # Project I
